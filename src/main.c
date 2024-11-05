@@ -17,7 +17,7 @@
 #include <date_time.h>
 
 
-//#define SHOW_LOG
+#define SHOW_LOG
 
 LOG_MODULE_REGISTER(gnss_sample, CONFIG_GNSS_SAMPLE_LOG_LEVEL);
 
